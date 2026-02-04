@@ -2,6 +2,9 @@
 Developer: SilverBulletEX  
 GitHub: [silverbulletex0-debug](https://github.com/silverbulletex0-debug)
 
+<p align="center">
+  <img src="https://github.com/silverbulletex0-debug/SlayerV2-Ultimate-Toolkit/raw/main/banner.jpg" width="100%">
+</p>
 ---
 
 ## 🛠️ Key Features (Technical Overview)
