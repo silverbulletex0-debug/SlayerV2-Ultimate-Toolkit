@@ -39,17 +39,16 @@ GitHub: [silverbulletex0-debug](https://github.com/silverbulletex0-debug)
 ---
 
 ## 📸 Project Gallery
-*(Replace the URLs below with your actual screenshot links after uploading them to a 'screenshots' folder)*
 
-| Startup & Interface | Main Attack Menu |
+| 1. Startup & Interface | 2. Main Attack Menu |
 | :---: | :---: |
-| ![Startup](screenshots/1.jpg) | ![Menu](screenshots/2.jpg) |
-
-| WiFi Scanning | MITM Success |
+| ![Startup](https://github.com/silverbulletex0-debug/SlayerV2-Ultimate-Toolkit/raw/main/1.png) | ![Menu](https://github.com/silverbulletex0-debug/SlayerV2-Ultimate-Toolkit/raw/main/2.png) |
+| 3. WiFi Scanning | 4. MITM Success |
 | :---: | :---: |
-| ![Scan](screenshots/3.jpg) | ![Sniff](screenshots/7.jpg) |
-
----
+| ![Scan](https://github.com/silverbulletex0-debug/SlayerV2-Ultimate-Toolkit/raw/main/3.png) | ![MITM](https://github.com/silverbulletex0-debug/SlayerV2-Ultimate-Toolkit/raw/main/7.png) |
+| 5. Targeted Deauth | 6. Handshake Cracking |
+| :---: | :---: |
+| ![Deauth](https://github.com/silverbulletex0-debug/SlayerV2-Ultimate-Toolkit/raw/main/4.png) | ![Crack](https://github.com/silverbulletex0-debug/SlayerV2-Ultimate-Toolkit/raw/main/6.png) |
 
 ## ⚠️ Disclaimer
 EDUCATIONAL PURPOSES ONLY. The author (SilverBulletEX) is not responsible for any misuse. Use ONLY on networks you own or have explicit permission to test.
